@@ -12,19 +12,19 @@
 
 <div style="position: relative; width: 500px; margin: auto;">
 
-  <img src="done_svgs/ypatis.svg"
+  <img src="done_svgs/ypatis_blue.svg"
        style="position: absolute; top: 0; left: 0; width: 100%;">
 
-  <img src="done_svgs/lianokladi.svg"
+  <img src="done_svgs/lianokladi_blue.svg"
        style="position: absolute; top: 0; left: 0; width: 100%;">
 
-  <img src="done_svgs/lamieon.svg"
+  <img src="done_svgs/lamieon_blue.svg"
        style="position: absolute; top: 0; left: 0; width: 100%;">
 
-  <img src="done_svgs/gorgopotamos.svg"
+  <img src="done_svgs/gorgopotamos_blue.svg"
        style="position: absolute; top: 0; left: 0; width: 100%;">
 
-  <img src="done_svgs/pauliani.svg"
+  <img src="done_svgs/pauliani_blue.svg"
        style="position: absolute; top: 0; left: 0; width: 100%;">
 
 </div>
