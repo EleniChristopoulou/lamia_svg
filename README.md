@@ -10,6 +10,25 @@
   <img src="lamia.svg" alt="Lamia Map" width="600">
 </p>
 
+<div style="position: relative; width: 500px; margin: auto;">
+
+  <img src="done_svgs/ypatis.svg"
+       style="position: absolute; top: 0; left: 0; width: 100%;">
+
+  <img src="done_svgs/lianokladi.svg"
+       style="position: absolute; top: 0; left: 0; width: 100%;">
+
+  <img src="done_svgs/lamieon.svg"
+       style="position: absolute; top: 0; left: 0; width: 100%;">
+
+  <img src="done_svgs/gorgopotamos.svg"
+       style="position: absolute; top: 0; left: 0; width: 100%;">
+
+  <img src="done_svgs/pauliani.svg"
+       style="position: absolute; top: 0; left: 0; width: 100%;">
+
+</div>
+
 ## Δημοτικές Ενότητες
 
 Ο Δήμος Λαμιέων αποτελείται από τις παρακάτω πέντε Δημοτικές Ενότητες:
