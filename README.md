@@ -10,25 +10,6 @@
   <img src="lamia.svg" alt="Lamia Map" width="600">
 </p>
 
-<div style="position: relative; width: 500px; margin: auto;">
-
-  <img src="blue_svgs/ypatis_blue.svg"
-       style="position: absolute; top: 0; left: 0; width: 100%;">
-
-  <img src="blue_svgs/lianokladi_blue.svg"
-       style="position: absolute; top: 0; left: 0; width: 100%;">
-
-  <img src="blue_svgs/lamieon_blue.svg"
-       style="position: absolute; top: 0; left: 0; width: 100%;">
-
-  <img src="blue_svgs/gorgopotamos_blue.svg"
-       style="position: absolute; top: 0; left: 0; width: 100%;">
-
-  <img src="blue_svgs/pauliani_blue.svg"
-       style="position: absolute; top: 0; left: 0; width: 100%;">
-
-</div>
-
 ## Δημοτικές Ενότητες
 
 Ο Δήμος Λαμιέων αποτελείται από τις παρακάτω πέντε Δημοτικές Ενότητες:
@@ -39,25 +20,47 @@
 4. **Γοργοποτάμου**
 5. **Παύλιανης**
 
+-------
+
+### Υπάτη
+
 <p align="center">
   <img src="blue_svgs/upati_blue.svg" alt="Lamia Map" width="600">
 </p>
+
+-------
+
+### Λειανοκλάδι
 
 <p align="center">
   <img src="blue_svgs/lianokladi_blue.svg" alt="Lamia Map" width="600">
 </p>
 
+-------
+
+### Λαμιέων
+
 <p align="center">
   <img src="blue_svgs/lamiewn_blue.svg" alt="Lamia Map" width="600">
 </p>
+
+-------
+
+### Γοργοπόταμος
 
 <p align="center">
   <img src="blue_svgs/gorgopotamos_blue.svg" alt="Lamia Map" width="600">
 </p>
 
+-------
+
+### Παύλιανη
+
 <p align="center">
   <img src="blue_svgs/pauliani_blue.svg" alt="Lamia Map" width="600">
 </p>
+
+-------
 
 ## Επεξεργασία Χάρτη
 
